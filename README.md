@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/ShehaniKavindi">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=922&text=Hello!%20I'm%20Shehani%20Kavindi" alt="Hello! I&#39;m Shehani Kavindi" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=dd8db8&fontSize=54&height=90&width=922&text=Hello!%20I'm%20Shehani%20Kavindi" alt="Hello! I&#39;m Shehani Kavindi" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=900&height=44&lines=Undergraduate%20software%20engineer%20at%20Birmingham%20City%20University;Currently%20exploring%20TypeScript%20%26%20modern%20web%20dev" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=900&height=44&lines=Undergraduate%20software%20engineer%20at%20Birmingham%20City%20University;Currently%20exploring%20TypeScript%20%26%20modern%20web%20dev" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
