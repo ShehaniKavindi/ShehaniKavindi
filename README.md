@@ -14,8 +14,7 @@ I'm a Software Engineering undergraduate who enjoys building full-stack projects
 
 🔭 &nbsp;I'm currently working on **a mobile habit tracker with React Native &amp; Expo**  
 🌱 &nbsp;I'm currently learning **TypeScript, Expo Router &amp; modern mobile development**  
-👯 &nbsp;I'm looking to collaborate on **open-source web and mobile projects**  
-😄 &nbsp;Pronouns: **she/her**
+👯 &nbsp;I'm looking to collaborate on **open-source web and mobile projects** 
 
 ### 🛠️ Tech Stack
 
