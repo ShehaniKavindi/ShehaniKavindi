@@ -12,8 +12,8 @@
 
 I'm a Software Engineering undergraduate who enjoys building full-stack projects end to end. I work with Java, PHP, and TypeScript, and I've built REST APIs with Jersey and Hibernate, web apps with PHP/MySQL and JSP, and mobile apps with React Native and Expo. I care about clean architecture, well-designed databases, and good documentation.
 
-🔭 &nbsp;I'm currently working on **a mobile habit tracker with React Native &amp; Expo**  
-🌱 &nbsp;I'm currently learning **TypeScript, Expo Router &amp; modern mobile development**  
+📚 &nbsp;I'm currently studying **Front-End Web Development** at the **University of Moratuwa** (certificate course) 
+🌱 &nbsp;I'm currently learning **TypeScript, Angular, Expo Router &amp; modern mobile development**  
 👯 &nbsp;I'm looking to collaborate on **open-source web and mobile projects** 
 
 ### 🛠️ Tech Stack
