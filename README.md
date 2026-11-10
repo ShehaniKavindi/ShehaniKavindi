@@ -44,6 +44,16 @@ I'm a Software Engineering undergraduate who enjoys building full-stack projects
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma ORM" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/bcryptjs-4A4A4A?style=for-the-badge" alt="bcryptjs" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
+  <img src="https://img.shields.io/badge/Helmet-000000?style=for-the-badge" alt="Helmet" />
+  <img src="https://img.shields.io/badge/Cookie--Parser-7952B3?style=for-the-badge" alt="Cookie Parser" />
+  <img src="https://img.shields.io/badge/Express--Rate--Limit-CC3333?style=for-the-badge" alt="Express Rate Limit" />
+  <img src="https://img.shields.io/badge/Dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black" alt="Dotenv" />
+  <img src="https://img.shields.io/badge/Morgan-555555?style=for-the-badge" alt="Morgan" />
+  <img src="https://img.shields.io/badge/CORS-4479A1?style=for-the-badge" alt="CORS" />
 </p>
 
 ### 🔗 Connect With Me
